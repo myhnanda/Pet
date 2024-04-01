@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-f(s2^1(r$*qt0a6kt+q)($6xe@0qism(!4&-asj0()$s%#k7dr
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://pet-production-44a4.up.railway.app']
 
 
 # Application definition
